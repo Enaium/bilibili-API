@@ -1,0 +1,7 @@
+## 投稿信息
+
+https://api.bilibili.com/x/space/navnum?mid=用户UID
+
+|----|----|
+|名字|说明|
+|video|视频数|
