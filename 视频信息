@@ -1,0 +1,18 @@
+## 视频信息
+
+https://api.bilibili.com/x/web-interface/view?aid=视频ID
+
+|名字|说明|
+|----|----|
+|tname|分区|
+|pic|封面|
+|title|标题|
+|desc|简介|
+
+over
+
+|名字|说明|
+|----|----|
+|mid|UID|
+|name|名字|
+|face|头像|
